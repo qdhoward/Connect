@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61653569994",
+    "firebase_url": "https://eventreporter-7782f.firebaseio.com",
+    "project_id": "eventreporter-7782f",
+    "storage_bucket": "eventreporter-7782f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61653569994:android:93d4b948bdcae2e7",
+        "android_client_info": {
+          "package_name": "edu.nyu.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61653569994-isutd251s2aeqppuefdp98i268rbdbg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.nyu.eventreporter",
+            "certificate_hash": "b91a03999ef04a6c72fdeab9e993bb1888c69b9b"
+          }
+        },
+        {
+          "client_id": "61653569994-donq35cui3uip01p92dabas2dn073nko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNidjjA5pryLi8uqD8uKmXyDXbia_LF20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61653569994-donq35cui3uip01p92dabas2dn073nko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
